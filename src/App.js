@@ -11,7 +11,7 @@ import Premium from "./webpages/premium/premium";
 import Account from "./webpages/account/account";
 import Product from "./webpages/product/product";
 import Cart from "./webpages/cart/cart";
-import { useProduct } from '/Users/charlesfloyd/Documents/Work/portfolio projects/SpaceX/spacex-shop/src/store/productclicked.js'
+import { useProduct } from '../src/store/productclicked'
 import Featured from "./webpages/featured/featured";
 function App() {
   const {cartproduct} = useProduct()
