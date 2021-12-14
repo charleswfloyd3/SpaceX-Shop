@@ -1,0 +1,47 @@
+[    
+    {
+        "name": "MEN'S BOMBER JACKET",
+        "price": "$140.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS_BOMBER_BLACK_FRONT2_400x.png?v=1637104379",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: 2XL", "Size: 3XL"]
+        
+     },
+     {
+        "name": "UNISEX STARSHIP PULLOVER HOODIE",
+        "price": "$65.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy_600x.png?v=1634582513",
+        "colors":["Color: Cream"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X"],
+        "details": ["100% cotton", "14oz. premium heavyweight fleece", "Due to the custom dye process, natural variances in color may occur"]
+     }, 
+     {
+        "name": "UNISEX STARSHIP CREW SWEATSHIRT",
+        "price": "$55.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_SWEATSHIRT_ROYAL_BLUE_FRONT-4952_600x.png?v=1631678160",
+        "colors":["Color: Blue"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X"],
+        "details": ["100% cotton", "8.5oz premium French Terry"]
+     }, 
+     {
+        "name": "WOMEN'S BOMBER JACKET",
+        "price": "$140.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS_BOMBER_BLACK_FRONT2_edit2_852a381b-01d9-4f02-b0f1-cbd7704b6ef8_700x.png?v=1637698026",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: 2XL", "Size: 3XL"]
+     }, 
+     {
+        "name": "SPACEX DUFFEL",
+        "price": "$100.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7644_600x.png?v=1615236465",
+        "details": ["Nylon canvas with matte canvas contrast", "Water resistant zippers with faux leather pullers", "Removable padded shoulder strap","Self carrying handle with matte black snaps", "Exterior zipped pocket with trolley sleeve", "Stash pockets on each side of the bag", "22' L x 14' H x 9' W"]
+     }, 
+     {
+        "name": "SPACEX BACKPACK",
+        "price": "$75.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7630_600x.png?v=1615235953",
+        "details": ["Nylon canvas with matte canvas contrast", "Interior padded storage compartment for a 15' laptop", "Two-way water resistant zippers","Interior zipped pockets", "Exterior zipped pocket with trolley sleeve", "Briefcase handle", "12' W x 18' H x 6' D"]
+     }
+]
+
+

@@ -1,0 +1,215 @@
+[
+    {
+        "name": "MEN'S BOMBER JACKET",
+        "price": "$140.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS_BOMBER_BLACK_FRONT2_900x.png?v=1637104379",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: 2XL", "Size: 3XL"]
+    },
+    {
+        "name": "UNISEX STARTSHIP CREW SWEATSHIRT",
+        "price": "$55.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_SWEATSHIRT_ROYAL_BLUE_FRONT-4952_800x.png?v=1631678160",
+        "colors":["Color: Blue"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X"],
+        "details": ["100% cotton", "8.5oz premium French Terry"]
+        
+    },
+    {
+        "name": "UNISEX STARTSHIP PULLOVER HOODIE",
+        "price": "$65.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy_800x.png?v=1634582513",
+        "colors":["Color: Cream"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X"],
+        "details": ["100% cotton", "14oz. premium heavyweight fleece", "Due to the custom dye process, natural variances in color may occur"]
+        
+    },
+    {        
+        "name": "MEN'S STARMAN T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-starman-black-FRONT_0414b62c-7de5-4a9d-916b-05a86976fa63_600x.png?v=1631726634",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["100% cotton"]
+        
+    },
+    {
+        "name": "MEN'S CREW DRAGON SCHEMATIC T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-CREW-DRAGON-SCHEMATIC-T-SHIRT-BLACK-BACK_900x.png?v=1631679171",
+        "colors":["Color: Black", "Color: Gray"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black - Small-XL: 60% Cotton / 40% Polyester", "Black - 2X-5X: 100% Cotton", "Gray  - 90% Cotton / 10% Polyester"]
+    },
+    {
+        "name": "MEN'S SPACEX T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-SPACEX-T-SHIRT-BLACK-BACK_600x.png?v=1632008475",
+        "colors":["Color: Black", "Color: Navy"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black: 100% Cotton", "Navy: 100% Cotton"]
+        
+    },
+    {
+        "name": "MEN'S OCCUPY MARS T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-oocupymars-black-FRONT_800x.png?v=1631725808",
+        "colors":["Color: Black", "Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "MEN'S FALCON HEAVY T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-FALCON-HEAVY-CHARCOAL-BACK_800x.png?v=1631681086",
+        "colors":["Color: Charcoal","Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    
+    },
+    {
+        "name": "MEN'S NUKE MARS T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-nukemars-black-FRONT_800x.png?v=1631726281",
+        "colors":["Color: Black"],
+        "sizes": ["Size: XS","Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 100% Cotton"]
+    },
+    {
+        "name": "MEN'S STARLINK T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-STARLINK_NEW_-T-SHIRT-BLACK-BACK_800x.png?v=1631680033",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 100% Cotton"]
+    },
+    {
+        "name": "MEN'S F9 T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-F9-T-SHIRT-BLACK-BACK_800x.png?v=1631679458",
+        "colors":["Color: Black", "Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+
+
+    },
+    {
+        "name": "MEN'S DRAGON T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-DRAGON-T-SHIRT-BLACK-BACK_800x.png?v=1631679317",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["100% Cotton"]
+
+    },
+    {
+        "name": "MEN'S FALCON 1 T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-FALCON-1-T-SHIRT-CHARCOAL-BACK6209_800x.png?v=1631679543",
+        "colors":["Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 50% Cotton / 50% Polyester"]
+        
+    },
+    {
+        "name": "MEN'S FALCON HEAVY LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_FH_LS_T_SHIRT_BLACK_BACK_800x.png?v=1631679587",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+
+    },
+    {
+        "name": "MEN'S DRAGON LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_DRAGON_LS_T_SHIRT_BLACK_BACK_600x.png?v=1631679273",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+    },
+    {
+        "name": "MEN'S F9 LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_F9_LS_T_SHIRT_BLACK_BACK_800x.png?v=1631679356",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+
+    },
+    {
+        "name": "SPACEX POLO",
+        "price": "$40.00",
+        "image":   "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-43-POLO-T-SHIRT-BLACK-FRONT_600x.png?v=1631660596",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2XL", "Size: 3XL", "Size: 4XL", "Size: 5XL"],
+        "details":["47.5% Cotton","47.5% Modal","5% Polyester"]
+
+    },
+    {
+        "name": "UNISEX SPACEX ZIPPER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_ZIPPER_BEIMAR_NAVY_BACK_800x.png?v=1631678003",
+        "colors":["Color: Navy","Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 70% Cotton / 30% Polyester", ""]
+
+    },
+    {
+        "name": "UNISEX OCCUPY MARS PULLOVER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_OCCUPY_MARS_BLACK_800x.png?v=1631677589",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "UNISEX STARMAN PULLOVER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_STARMAN_BEIMAR_BLACK_FRONT_800x.png?v=1631678082",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "UNISEX SPACEX SWEATSHIRT",
+        "price": "$45.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_SWEATSHIRT_BLACK_BACK_800x.png?v=1631677869",
+        "colors":["Color: Black", "Color: Navy"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 80% Cotton / 20% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "UNISEX F9 ZIPPER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_F9_ZIPPER_SMARTEX_BLACK_BACK_800x.png?v=1631677430",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+
+    },
+    {
+        "name": "UNISEX DRAGON ZIPPER HOODIE",
+        "price": "$50.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_DRAGON_ZIPPER_SMARTEX_GRAY_BACK_800x.png?v=1631677365",
+        "colors":["Color: Gray"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 52% Cotton / 48% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "UNISEX FALCON HEAVY ZIPPER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_FALCON_HEAVY_ZIPPER_SMARTEX_CHARCOAL_BACK_800x.png?v=1631677491",
+        "colors":["Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "UNISEX SPACEX PULLOVER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_PULLOVER_NAVY_BACK_800x.png?v=1631677689",
+        "colors":["Color: Navy","Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    }
+]

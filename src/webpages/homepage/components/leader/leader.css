@@ -1,0 +1,79 @@
+@font-face {
+    font-family: missionfontthin;
+    src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf);
+  }
+  .homepage-outer{
+      text-align: center;
+  }
+  .placeholder{
+      height: 2000px;
+      background-color: royalblue;
+  }
+.leading-img1{
+
+    height: 40.97vw;
+    /* background-color: black; */
+    background-image: url(homepage-img1.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: 128px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: absolute; */
+    left: 0;
+    right: 0;
+    padding-bottom: 44px;
+}
+.leading-title{
+font-family: missionfontthin;
+font-size: 43px;
+font-weight: 700;
+color: white;
+letter-spacing: 4.3px;
+/* position: absolute;
+left: 0; 
+right: 0;  */
+
+width: 400px;
+margin-top: 204px;
+line-height: 70.95px;
+/* margin-top: 22.8vw; */
+
+}
+@media (max-width:940px){
+    .leading-title{
+        margin-top: 224px;
+    }
+}
+@media (max-width:760px){
+    .leading-title{
+        margin-top: 244px;
+    }
+}
+@media (max-width:640px){
+    .leading-img1{
+        margin-top: -7px;
+    }
+    .leading-title{
+        font-size: 24px;
+  
+            margin-top: 230px;
+    }
+}
+
+@media (max-width:480px){
+    .leading-img1{
+        margin-top: -7px;
+        padding-bottom: 100px;
+    }
+}
+@media (max-width:350px){
+    .leading-img1{
+    }
+    .leading-title{
+        font-size: 22px;
+        letter-spacing: 1px;
+        margin-top: 240px;
+    }
+}

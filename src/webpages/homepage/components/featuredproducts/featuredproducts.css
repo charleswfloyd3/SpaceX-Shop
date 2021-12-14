@@ -1,0 +1,106 @@
+@font-face {
+    font-family: missionfontthin;
+    src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf);
+  }
+.featured-products-title{
+    font-family: missionfontthin;
+    font-size: 24px;
+    letter-spacing: 2.4px;
+    line-height: 39.6px;
+    font-weight: 700;
+    margin-top:34px;
+    margin-bottom:70px ;
+    text-align: center;
+}
+.featured-outer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* padding: 40px; */
+  place-items: center;
+  text-align: center;
+}
+.featured-img1,
+.featured-img2{
+  /* height: 48vw; */
+  /* height: 580px; */
+  height: 900px;
+  background-position: center center;
+  /* border: 2px solid black; */
+}
+
+.featured-img1{
+  /* margin-right: 20px; */
+}
+.featured-outer{
+}
+.featured-product1{
+
+}
+.featured-product2{
+
+}
+.featured-products{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.featured-products-btn{
+  font-family: missionfontthin;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-right: 28px;
+  padding-left: 28px;
+  letter-spacing: 1.3px;
+  font-size: 13px;
+  background-color: black;
+  width: fit-content;
+  color: white;
+margin: auto;
+margin-top: 4.5vw;
+margin-bottom: -100px;
+cursor: pointer;
+border: 1px solid transparent;
+
+}
+.featured-products-btn:hover{
+  background-color: transparent;
+  color: black;
+  border: 1px solid black;
+}
+@media (max-width:1940px){
+  .featured-outer{
+  }
+  .featured-img1{
+    height: 46.35vw;
+  }
+  .featured-img2{
+    height: 46.35vw;
+    /* margin-left: -20px; */
+
+  }
+
+}
+@media (max-width:345px){
+  .featured-products-title{
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding-bottom: 40px; */
+    /* padding-top: 20px; */
+  }
+
+}
+.featured-product1-info{
+  font-family: missionfontthin;
+  font-size: 13px;
+  letter-spacing: 1.3px;
+  line-height: 21.45px;
+}
+.featured-product2-info{
+  font-family: missionfontthin;
+  font-size: 13px;
+  letter-spacing: 1.3px;
+  line-height: 21.45px;
+}

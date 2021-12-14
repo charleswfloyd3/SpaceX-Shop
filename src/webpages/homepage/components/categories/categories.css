@@ -1,0 +1,210 @@
+@font-face {
+    font-family: missionfontthin;
+    src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf);
+  }
+.categories-outer{
+    height: 600px;
+    width: 100%;
+    margin-top: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    position: absolute;
+    margin-top: -550px;
+    text-align: center;
+
+}
+.category1-2ndrow{
+    display: none;
+
+    /* border: 2px solid black; */
+    background-position: center center; background-image: url("https://cdn.shopify.com/s/files/1/0261/2615/5855/files/WOMENS-OCCUPY-MARS-T-SHIRT-BLACK-FRONTcopy_png_1000x.png?v=1635981083");
+    background-size: cover;
+    filter: sepia(0%) saturate(100%) brightness(72%);
+    background-repeat: no-repeat;
+
+}
+.category2-2ndrow{
+    display: none;
+
+    /* border: 2px solid black; */
+    background-position: center center; background-image: url("https://cdn.shopify.com/s/files/1/0261/2615/5855/files/MENS-CREW-DRAGON-SCHEMATIC-TSHIRT-GRAY-BACK_1000x.png?v=1632006775");
+    background-size: cover;
+    filter: sepia(0%) saturate(100%) brightness(72%);
+    background-repeat: no-repeat;
+
+}
+.category3-2ndrow{
+    display: none;
+    /* border: 2px solid black; */
+    background-position: center center; background-image: url("https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Bottle_Front_1500x.png?v=1634652797");
+    background-size: cover;
+    /* background-position-y:-250px ; */
+    filter: sepia(0%) saturate(100%) brightness(72%);
+    background-repeat: no-repeat;
+}
+.category1{
+    /* border: 2px solid black; */
+    background-position: center center; background-image: url("https://cdn.shopify.com/s/files/1/0261/2615/5855/files/WOMENS-OCCUPY-MARS-T-SHIRT-BLACK-FRONTcopy_png_1000x.png?v=1635981083");
+    background-size: cover;
+    filter: sepia(0%) saturate(100%) brightness(72%);
+
+}
+.category2{
+    /* border: 2px solid black; */
+    background-position: center center; background-image: url("https://cdn.shopify.com/s/files/1/0261/2615/5855/files/MENS-CREW-DRAGON-SCHEMATIC-TSHIRT-GRAY-BACK_1000x.png?v=1632006775");
+    background-size: cover;
+    filter: sepia(0%) saturate(100%) brightness(72%);
+
+}
+.category3{
+    background-color: royalblue;
+    /* border: 2px solid black; */
+    background-position: center center; background-image: url("https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Bottle_Front_1500x.png?v=1634652797");
+    background-size: cover;
+    filter: sepia(0%) saturate(100%) brightness(72%);
+
+}
+
+.titles{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.category-text{
+    margin-top: 550px;
+    z-index: 2;
+
+}
+.category-title{
+    font-size: 43px;
+    font-family: missionfontthin;
+    color: white; 
+    /* color: black;   */
+    top: 200px;
+    /* position: absolute; */
+    /* margin-left: -90px; */
+    letter-spacing: 4.3px;
+    text-align: center;
+    /* filter: sepia(0%) saturate(100%) brightness(100%); */
+}
+.category-btn1, .category-btn2,
+.category-btn3{
+    font-family: missionfontthin;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-right: 28px;
+    padding-left: 28px;
+    letter-spacing: 1.3px;
+    font-size: 13px;
+    background-color: white;
+    width: fit-content;
+margin: auto;
+border: 1px solid transparent;
+cursor: pointer;
+
+}
+.category-btn1:hover, .category-btn2:hover,
+.category-btn3:hover{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
+.category-btn1{
+}
+.category-btn2{
+
+}
+.category-btn3{
+
+}
+.category-text-mobile{
+    padding-top: 200px;
+    display: none;
+}
+@media (max-width:1240px){
+    .categories-outer{
+        position: relative;
+        margin-top: 180px;
+    }
+    .titles{
+        display: none;
+        /* visibility: hidden; */
+    }
+
+
+}
+@media (max-width:1240px){
+
+    .categories-outer{
+        grid-template-columns: 1fr 1fr ;
+        height: 500px;
+        
+    }
+
+    .category1,
+    .category2,
+    .category3{
+height: 500px;
+    }
+    .category3{
+        display: none;
+    }
+.category3{
+}
+.category3-2ndrow{
+    display: block;
+    height: 500px;
+    margin-bottom: 200px;
+}
+
+}
+@media (max-width:640px){
+    .titles{
+        display: none;
+      
+    }
+    .category-text-mobile{
+        padding-top: 200px;
+        display: block;
+    }
+    .categories-outer-mobile{
+        /* margin-top: -1200px; */
+    }
+    .category1-2ndrow{
+        display: block;
+        height: 500px;
+        margin: auto;
+        width: 88vw;
+        margin-top: 200px;
+        margin-bottom: 30px;
+
+    }
+    .category2-2ndrow{
+        display: block;
+        margin: auto;
+        width: 88vw;
+        height: 500px;
+        margin-bottom: 30px;
+
+    }
+    .category3-2ndrow{
+        height: 500px;
+        margin: auto;
+        width: 88vw;
+        margin-bottom: 30px;
+        filter: sepia(0%) saturate(100%) brightness(72%);
+
+    }
+    .categories-outer{
+        display: none;
+    }
+
+}
+
+@media (max-width:400px){
+    .category-text-mobile{
+        display: none;
+    }
+}

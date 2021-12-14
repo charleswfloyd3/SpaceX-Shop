@@ -1,0 +1,74 @@
+@font-face {
+    font-family: missionfontthin;
+    src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf);
+  }
+  .product-component{
+      margin-left: auto;
+      width: fit-content;
+      margin-right: auto;
+  }
+.products-outer{
+    grid-template-columns: 22vw 22vw 22vw 22vw;
+    /* grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr; */
+    /* margin-top: 224px; */
+    gap: 20px;
+    display: inline-grid;
+    justify-content: center;
+    margin-top: 26px;
+    margin-bottom: 120px;
+}
+.mens-products-title{
+font-size: 24px;
+letter-spacing: 2.4px;
+line-height: 39.6px;
+font-family: missionfontthin;
+margin-top: 134px;
+text-align: center;
+}
+.products-outer div{
+}
+.products-outer div img{
+    height: 22vw;
+
+}
+.product-name{
+    font-size: 13px;
+letter-spacing: 1.3px;
+line-height: 21.45px;
+font-family: missionfontthin;
+text-decoration-style:solid ;
+text-align: center;
+text-transform: uppercase;
+/* border: 2px solid black; */
+}
+.product-price{
+    font-size: 13px;
+letter-spacing: 1.3px;
+line-height: 21.45px;
+font-family: missionfontthin;
+text-decoration-style:solid ;
+text-align: center;
+text-transform: uppercase;
+margin-top: -10px;
+}
+@media (max-width:1240px){
+
+    .products-outer{
+    grid-template-columns: 29vw 29vw 29vw;
+
+    }
+    .products-outer div img{
+        height: 29vw;
+    }
+
+}
+@media (max-width:640px){
+
+    .products-outer{
+    grid-template-columns: 45vw 45vw ;
+        gap: 10px;
+    }
+    .products-outer div img{
+        height: 45vw;
+    }
+}
