@@ -1,4 +1,3 @@
-import Navbar from "./components/navbar/navbar";
 // import './App.css'
 import React,{useState} from "react";
 import Homepage from "./webpages/homepage/homepage";

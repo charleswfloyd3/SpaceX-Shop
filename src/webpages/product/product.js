@@ -1,6 +1,6 @@
 import React,{useEffect, useState} from 'react'
 import Navbar from '../../components/navbar'
-import Footer from '/Users/charlesfloyd/Documents/Work/portfolio projects/SpaceX/spacex-shop/src/components/footer/footer.js'
+import Footer from '../../components/footer/footer'
 import './product.css'
 
 import { useProduct } from '../../store/productclicked'
