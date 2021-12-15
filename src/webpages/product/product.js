@@ -1,5 +1,5 @@
 import React,{useEffect, useState} from 'react'
-import Navbar from '/Users/charlesfloyd/Documents/Work/portfolio projects/SpaceX/spacex-shop/src/components/navbar/navbar.js'
+import Navbar from '../../components/navbar'
 import Footer from '/Users/charlesfloyd/Documents/Work/portfolio projects/SpaceX/spacex-shop/src/components/footer/footer.js'
 import './product.css'
 
