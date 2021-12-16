@@ -5,7 +5,8 @@
     line-height: 39.6px;
     font-weight: 700;
     margin-top:34px;
-    margin-bottom:70px ;
+    /* margin-bottom:70px ; */
+    margin-bottom: 4.75vw;
     text-align: center;
 }
 .featured-outer{
@@ -16,6 +17,9 @@
   /* padding: 40px; */
   place-items: center;
   text-align: center;
+}
+.featured-products{
+  margin-top: -7vw;
 }
 .featured-img1,
 .featured-img2{
