@@ -1,6 +1,11 @@
+@font-face {
+  font-family: spacex;
+  src: url("NeuzeitGro-Bol.woff")
+  format("woff")
+}
 body {
   margin: 0;
-  font-family: cursive;
+ font-family: spacex;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
