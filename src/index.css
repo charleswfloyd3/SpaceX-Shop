@@ -1,7 +1,6 @@
 @font-face {
   font-family: spacex;
-  src: url("DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf")
-  format("otf")
+  src: url("spacex.otf")
 }
 body {
   margin: 0;
