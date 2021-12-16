@@ -1,4 +1,4 @@
-import React,{useEffect, useState} from 'react'
+import React from 'react'
 import Navbar from '../../components/navbar/navbar'
 import Footer from '../../components/footer/footer'
 import './product.css'
@@ -15,13 +15,12 @@ const Product = (props) => {
             <Navbar />
             <div className="product-page-outer">
                 {/* <p>{JSON.stringify(productvalue)}</p> */}
-                <img src={productstored.image} className="product-img" ></img>
+                <img src={productstored.image} className="product-img" alt={productstored.name}></img>
                 <div className="product-content">
                     <h1 className="product-page-name">{productstored.name}</h1>
                     <h2 className="product-page-price">{productstored.price}</h2>
 
-                    {console.log(productstored.details)}
-                    {productstored.details != undefined ?
+                    {productstored.details !== undefined ?
                     
                     <div>
                         <h4 className="fabric-content">Fabric Content:</h4>
@@ -38,7 +37,7 @@ const Product = (props) => {
                     
 
 
-                    {productstored.sizes != undefined ?<div>
+                    {productstored.sizes !== undefined ?<div>
                     <select className="color-selection">
                         <optgroup>
                         {productstored.colors.map((color) =>{

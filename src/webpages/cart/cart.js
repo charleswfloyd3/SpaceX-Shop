@@ -1,4 +1,4 @@
-import React,{useEffect} from 'react'
+import React from 'react'
 import Footer from '../../components/footer/footer';
 import Navbar from '../../components/navbar/navbar';
 import './emptycart.css'
@@ -6,7 +6,7 @@ import './loadedcart.css'
 import { useProduct } from '../../store/productclicked'
 
 const Cart = () => {
-    const {cartproduct, setCartProduct, setCartProductEvent} = useProduct()
+    const { setCartProductEvent} = useProduct()
     const cartproducts = JSON.parse(localStorage.getItem('cartproducts'))
         let pricearray = [];
         let totalprice = 0;
@@ -14,8 +14,8 @@ const Cart = () => {
             pricearray.push(parseFloat(cartproducts[i].price.replace('$', "")))
         }
         totalprice = pricearray.reduce((a,b) => a + b, 0)
-        console.log(pricearray)
-        console.log(totalprice)
+        // console.log(pricearray)
+        // console.log(totalprice)
     let noduplicateproducts = cartproducts;   
 
 
@@ -50,7 +50,7 @@ const Cart = () => {
                             </div>
                             <div className='cart-item-content'>
                                 <div>
-                                    <img src={product.image} className="cart-item-img"></img>
+                                    <img src={product.image} className="cart-item-img" alt="product-img"></img>
                                     <div>
                                     <p className="cart-item-name">{product.name}</p>
                                     <p className="cart-item-price">{product.price}</p>

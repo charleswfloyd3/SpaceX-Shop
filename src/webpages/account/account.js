@@ -1,10 +1,10 @@
 import React from 'react'
-import Footer from '../../components/footer/footer';
+// import Footer from '../../components/footer/footer';
 import Navbar from '../../components/navbar/navbar';
 import './account.css'
 const Account = () => {
     return (
-        <div>
+        <div className="account-page">
             <Navbar />
             <div className="login-form-outer">
                 <form className="login-form">

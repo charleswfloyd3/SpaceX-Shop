@@ -1,5 +1,5 @@
 // import './App.css'
-import React,{useState} from "react";
+import React from "react";
 import Homepage from "./webpages/homepage/homepage";
 import { Routes, Route}  from 'react-router-dom';
 import Mens from "./webpages/mens/mens";
@@ -10,13 +10,11 @@ import Premium from "./webpages/premium/premium";
 import Account from "./webpages/account/account";
 import Product from "./webpages/product/product";
 import Cart from "./webpages/cart/cart";
-import { useProduct } from '../src/store/productclicked'
 import Featured from "./webpages/featured/featured";
 function App() {
-  const {cartproduct} = useProduct()
-//   window.onbeforeunload = function() {
-//     return "you can not refresh the page";
-// }
+  window.onbeforeunload = function() {
+    return "you can not refresh the page";
+}
 
   return (
     <div className="App">

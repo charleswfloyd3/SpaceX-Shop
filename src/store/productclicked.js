@@ -16,7 +16,7 @@ function SendProduct({ children }) {
 
   //product for cart page
     const [cartproduct, setCartProduct] = useState([]);
-    const [reload, setreload] = useState(false)
+    // const [reload, setreload] = useState(false)
     localStorage.setItem('cartproducts',JSON.stringify(cartproduct))
     
     function containsObject(obj, list) {

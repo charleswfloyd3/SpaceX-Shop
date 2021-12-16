@@ -3,14 +3,13 @@ import {Link}  from 'react-router-dom';
 import './navbar.css'
 const Navbar = () => {
     const [sidebar, setsidebar] = useState("none")
-    const cartproducts = JSON.parse(localStorage.getItem('cartproduct'))
     return (
         <div className="header-outer">
 
             <div className="nav-outer-main">
 
                 <div className='nav-left-main'>
-                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/'} ><img src="/images/spacex-logo.png" className="logo" onClick={()=>{ window.scrollTo(0, 0)}}/></Link>
+                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/'} ><img src="/images/spacex-logo.png" className="logo" alt="spacex-logo" onClick={()=>{ window.scrollTo(0, 0)}}/></Link>
                     <ul className='nav-links-main'>
                     <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/mens'} >Mens</Link></li>
                         <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/womens'} >Womens</Link></li>
@@ -30,7 +29,7 @@ const Navbar = () => {
                
                 <div className="mobile-nav-outer">
                     <div  className="nav-left-mobile-main">
-                        <img src="/images/hamburgericon.png" className="hamburger"  onClick={() =>{
+                        <img src="/images/hamburgericon.png" className="hamburger" alt="hamburger-icon"  onClick={() =>{
                             if(sidebar === "none"){
                                 setsidebar("block")
                             }
@@ -39,15 +38,15 @@ const Navbar = () => {
                             }
                         }}></img>
                     </div>
-                    <Link style={{ textDecoration:"none", color:'inherit'}} to={'/'} ><img src="/images/spacex-logo.png" className="nav-center-mobile-main" onClick={()=>{ window.scrollTo(0, 0)}}/></Link>
+                    <Link style={{ textDecoration:"none", color:'inherit'}} to={'/'} ><img src="/images/spacex-logo.png" className="nav-center-mobile-main" alt="spacex-logo" onClick={()=>{ window.scrollTo(0, 0)}}/></Link>
                     <div className="nav-right-mobile-main">
-                        <img className="searchicon-main" src="/images/searchicon.png"></img>
-                        <Link style={{ textDecoration:"none", color:'inherit'}} to={'/cart'} onClick={()=>{window.scrollTo(0, 0)}}><img className="carticon-main" src="/images/carticon.png"></img></Link>
+                        <img className="searchicon-main" src="/images/searchicon.png" alt="search-icon"></img>
+                        <Link style={{ textDecoration:"none", color:'inherit'}} to={'/cart'} onClick={()=>{window.scrollTo(0, 0)}}><img className="carticon-main" src="/images/carticon.png" alt="cart-icon"></img></Link>
                     </div>
                 </div>
 
                 <div className="nav-sidebar" style={{display:sidebar}}>
-                    <img src="/images/xicon.png" className="xicon" onClick={()=>{
+                    <img src="/images/xicon.png" className="xicon" alt="x-icon" onClick={()=>{
                             if(sidebar === "none"){
                                 setsidebar("block")
                             }
