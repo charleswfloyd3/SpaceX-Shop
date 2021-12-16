@@ -1,6 +1,7 @@
 @font-face {
   font-family: spacex;
-  src: url("spacex.otf")
+  src: url("spacex.woff")
+  format("woff")
 }
 body {
   margin: 0;
