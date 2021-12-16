@@ -1,10 +1,10 @@
 
-  @font-face {
-    font-family: "DIN Neuzeit Grotesk";
-    font-weight: 700;
-    font-style: normal;
-    font-display: fallback;
-    src: url("https://fonts.shopifycdn.com/din_neuzeit_grotesk/dinneuzeitgrotesk_n7.2e3a6dec0d428cd2d2453b96ef3acb526d6f681d.woff2?h1=c3BhY2V4LmNvbQ&hmac=3183bc7727a3e7a2ee8d460b36d9cbe1575a1e1e55b67d20d34eb7b49d61fd10") format("woff2"), url("https://fonts.shopifycdn.com/din_neuzeit_grotesk/dinneuzeitgrotesk_n7.59a1cdca66d0ea85e97f53efe77e96911d042cfb.woff?h1=c3BhY2V4LmNvbQ&hmac=8f45b474f345be82d0bc79bcc08c54510bfc42afa09c5aef33dc217818490f94") format("woff"); }
+
+    @font-face {
+        font-family: missionfontthin;
+        src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)
+        format("woff2"), url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)format("woff");
+      }
 .header-outer{
 text-align: center;
 }
@@ -18,15 +18,14 @@ position: absolute;
 position: sticky; */
 }
 .announcment-message{
+    font-family: missionfontthin;
 position: absolute;
-font-family: "DIN Neuzeit Grotesk", sans-serif;
 top: 0;
 width: fit-content;
 margin-left: auto;
 margin-right: auto;
 left: 0;
 right: 0;
-font-weight: 700;
 font-size: 12px;
 letter-spacing: 1.2px;
 font-weight: 700;
@@ -34,7 +33,7 @@ line-height: 19.8px;
 font-weight: 700;
 font-style: normal;
 font-style: normal;
-
+margin-top: 12px;
 transition: color 0.2s ease-in-out;
 letter-spacing: 0.1em;
 text-transform: uppercase; 
@@ -61,7 +60,7 @@ text-transform: uppercase;
     position: fixed;
 color: white;
 z-index: 2;
-border-bottom:.1px solid rgb(51, 51, 51) ;
+border-bottom:.1px solid rgb(39, 39, 39) ;
 }
 .mobile-nav-outer{
     display: none;
