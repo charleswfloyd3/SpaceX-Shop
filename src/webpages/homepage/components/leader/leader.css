@@ -1,53 +1,63 @@
-@font-face {
+
+  @font-face {
     font-family: "DIN Neuzeit Grotesk";
-    font-weight: 700;
+    /* font-weight: 700; */
     font-style: normal;
     font-display: fallback;
     src: url("https://fonts.shopifycdn.com/din_neuzeit_grotesk/dinneuzeitgrotesk_n7.2e3a6dec0d428cd2d2453b96ef3acb526d6f681d.woff2?h1=c3BhY2V4LmNvbQ&hmac=3183bc7727a3e7a2ee8d460b36d9cbe1575a1e1e55b67d20d34eb7b49d61fd10") format("woff2"), url("https://fonts.shopifycdn.com/din_neuzeit_grotesk/dinneuzeitgrotesk_n7.59a1cdca66d0ea85e97f53efe77e96911d042cfb.woff?h1=c3BhY2V4LmNvbQ&hmac=8f45b474f345be82d0bc79bcc08c54510bfc42afa09c5aef33dc217818490f94") format("woff"); }
   .homepage-outer{
       text-align: center;
+    margin-top: 128px;
+    position: relative;
+
   }
   .placeholder{
       height: 2000px;
-      background-color: royalblue;
+      /* background-color: royalblue; */
   }
 .leading-img1{
 
     height: 40.97vw;
-    /* background-color: black; */
     background-image: url("https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Store_Header_8bea78f5-04fb-49cd-8fa7-62b9c50b980d_2000x.jpg?v=1566589024");
     -webkit-background-size: contain;
+    position: relative;
 	-moz-background-size: contain;
 	-o-background-size: contain;
     background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: 128px;
     display: flex;
     justify-content: center;
     align-items: center;
     /* position: absolute; */
-    left: 0;
-    right: 0;
-    padding-bottom: 44px;
+
+
 }
 .leading-title{
     font-family: "DIN Neuzeit Grotesk", sans-serif;
-    font-weight: 700;
-    font-size: 43px;
-font-weight: 700;
+    font-size: 44px;
+font-weight: 500;
 color: white;
+width: fit-content;
+margin-top: -7vw;
 letter-spacing: 4.3px;
-/* position: absolute;
-left: 0; 
-right: 0;  */
-
-width: 400px;
-margin-top: 204px;
+font-style: normal;
+transition: color 0.2s ease-in-out;
+letter-spacing: 0.1em;
 line-height: 70.95px;
-/* margin-top: 22.8vw; */
-
 }
-@media (max-width:940px){
+@media (max-width:640px){
+    .leading-img1{
+        margin-top: -7px;
+    }
+    .leading-title{
+        font-size: 24px;
+        line-height: 39.6px;
+        letter-spacing: 2.4px;
+  
+            /* margin-top: 230px; */
+    }
+}
+/* @media (max-width:940px){
     .leading-title{
         margin-top: 224px;
     }
@@ -57,16 +67,7 @@ line-height: 70.95px;
         margin-top: 244px;
     }
 }
-@media (max-width:640px){
-    .leading-img1{
-        margin-top: -7px;
-    }
-    .leading-title{
-        font-size: 24px;
-  
-            margin-top: 230px;
-    }
-}
+
 
 @media (max-width:480px){
     .leading-img1{
@@ -82,4 +83,4 @@ line-height: 70.95px;
         letter-spacing: 1px;
         margin-top: 240px;
     }
-}
+} */

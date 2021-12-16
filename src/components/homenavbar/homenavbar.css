@@ -1,7 +1,4 @@
-@font-face {
-    font-family: missionfont;
-    src: url(D-DIN-Bold.otf);
-  }
+
   @font-face {
     font-family: "DIN Neuzeit Grotesk";
     font-weight: 700;
@@ -22,20 +19,26 @@ position: sticky; */
 }
 .announcment-message{
 position: absolute;
-/* display: none; */
+font-family: "DIN Neuzeit Grotesk", sans-serif;
 top: 0;
 width: fit-content;
 margin-left: auto;
 margin-right: auto;
 left: 0;
 right: 0;
-font-family: "DIN Neuzeit Grotesk", sans-serif;
+font-weight: 700;
 font-size: 12px;
 letter-spacing: 1.2px;
 font-weight: 700;
 line-height: 19.8px;
 font-weight: 700;
 font-style: normal;
+font-style: normal;
+
+transition: color 0.2s ease-in-out;
+letter-spacing: 0.1em;
+text-transform: uppercase; 
+
 }
 @media (max-width:640px){
 .announcment-message{
