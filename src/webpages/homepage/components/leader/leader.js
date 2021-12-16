@@ -4,7 +4,7 @@ const Leader = () => {
     return (
         <div className="homepage-outer">
         <div className="leading-img1">
-            <img src="/images/homepage-img1.jpeg"/>
+            <img src="homepage-img1.jpeg"/>
             <p className="leading-title">SHOP SPACEX</p>
         </div>
         </div>
