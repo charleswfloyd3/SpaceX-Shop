@@ -13,7 +13,7 @@
 
     height: 40.97vw;
     /* background-color: black; */
-    /* background-image: url("homepage-img1.jpeg"); */
+    background: url("homepage-img1.jpeg");
     -webkit-background-size: contain;
 	-moz-background-size: contain;
 	-o-background-size: contain;
