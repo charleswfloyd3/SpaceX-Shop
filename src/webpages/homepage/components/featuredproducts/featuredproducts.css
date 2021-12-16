@@ -1,10 +1,5 @@
-@font-face {
-  font-family: missionfontthin;
-  src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)
-  format("woff2"), url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)format("woff");
-}
+
 .featured-products-title{
-    font-family: missionfontthin;
     font-size: 24px;
     letter-spacing: 2.4px;
     line-height: 39.6px;
@@ -48,7 +43,6 @@
 
 }
 .featured-products-btn{
-  font-family: missionfontthin;
   padding-top: 14px;
   padding-bottom: 14px;
   padding-right: 28px;
@@ -94,13 +88,11 @@ border: 1px solid transparent;
 
 }
 .featured-product1-info{
-  font-family: missionfontthin;
   font-size: 13px;
   letter-spacing: 1.3px;
   line-height: 21.45px;
 }
 .featured-product2-info{
-  font-family: missionfontthin;
   font-size: 13px;
   letter-spacing: 1.3px;
   line-height: 21.45px;

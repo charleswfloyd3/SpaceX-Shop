@@ -1,7 +1,4 @@
-@font-face {
-    font-family: missionfontthin;
-    src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf);
-  }
+
 .categories-outer{
     height: 600px;
     width: 100%;
@@ -79,7 +76,6 @@
 }
 .category-title{
     font-size: 43px;
-    font-family: missionfontthin;
     color: white; 
     /* color: black;   */
     top: 200px;
@@ -91,7 +87,6 @@
 }
 .category-btn1, .category-btn2,
 .category-btn3{
-    font-family: missionfontthin;
     padding-top: 14px;
     padding-bottom: 14px;
     padding-right: 28px;

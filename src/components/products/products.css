@@ -1,7 +1,4 @@
-@font-face {
-    font-family: missionfontthin;
-    src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf);
-  }
+
   .product-component{
       margin-left: auto;
       width: fit-content;
@@ -21,7 +18,6 @@
 font-size: 24px;
 letter-spacing: 2.4px;
 line-height: 39.6px;
-font-family: missionfontthin;
 margin-top: 134px;
 text-align: center;
 }
@@ -35,7 +31,6 @@ text-align: center;
     font-size: 13px;
 letter-spacing: 1.3px;
 line-height: 21.45px;
-font-family: missionfontthin;
 text-decoration-style:solid ;
 text-align: center;
 text-transform: uppercase;
@@ -45,7 +40,6 @@ text-transform: uppercase;
     font-size: 13px;
 letter-spacing: 1.3px;
 line-height: 21.45px;
-font-family: missionfontthin;
 text-decoration-style:solid ;
 text-align: center;
 text-transform: uppercase;

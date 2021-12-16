@@ -1,7 +1,4 @@
-@font-face {
-    font-family: missionfontthin;
-    src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf);
-  }
+
 .login-form-outer{
     display: grid;
     place-items: center;
@@ -13,7 +10,6 @@ margin-top: 31.4vh;
 }
 .form-title{
     font-size: 24px;
-    font-family: missionfontthin;
     line-height: 39.6px;
     font-weight: 700;
     letter-spacing: 2.4px;
@@ -47,7 +43,6 @@ margin-top: 31.4vh;
     font-weight: 1000;
     border: .1px solid black;
     /* margin-top: 20px; */
-    font-family: missionfontthin;
 }
 .form-conclusion-text{
     font-family: sans-serif;

@@ -1,10 +1,4 @@
 
-
-    @font-face {
-        font-family: missionfontthin;
-        src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)
-        format("woff2"), url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)format("woff");
-      }
 .header-outer{
 text-align: center;
 }
@@ -18,7 +12,6 @@ position: absolute;
 position: sticky; */
 }
 .announcment-message{
-    font-family: missionfontthin;
 position: absolute;
 top: 0;
 width: fit-content;
@@ -84,7 +77,6 @@ font-size: 15px;
 margin-left: -10px;
 }
 .nav-link{
-    font-family: "DIN Neuzeit Grotesk", sans-serif;
     text-transform: uppercase;
 font-weight: 600;
 margin-right: 42px;
@@ -106,7 +98,6 @@ letter-spacing: 1.5px;
     margin-right: 28px;
     font-size: 13px;
     font-weight: 600;
-    font-family: "DIN Neuzeit Grotesk", sans-serif;
     color: rgb(136, 135, 135);
     letter-spacing: 1.25px;
 
@@ -114,7 +105,6 @@ letter-spacing: 1.5px;
 .nav-link-right-cart{
     /* margin-right: 42px; */
     font-size: 15px;
-    font-family: "DIN Neuzeit Grotesk", sans-serif;
     margin-top: -2px;
     letter-spacing: 1.5px;
     margin-left: 4px;
@@ -264,7 +254,6 @@ letter-spacing: 1.5px;
 .nav-sidebar ul li{
     letter-spacing: 1.5px;
     font-size: 15px;
-    font-family: missionfontthin;
     line-height: 24.75px;
     z-index: 5;
     color: black;
