@@ -1,8 +1,8 @@
-    @font-face {
-        font-family: missionfontthin;
-        src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)
-        format("woff2"), url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)format("woff");
-      }
+@font-face {
+  font-family: missionfontthin;
+  src: url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)
+  format("woff2"), url(DIN\ Neuzeit\ Grotesk\ W01\ Bold.otf)format("woff");
+}
 .featured-products-title{
     font-family: missionfontthin;
     font-size: 24px;
