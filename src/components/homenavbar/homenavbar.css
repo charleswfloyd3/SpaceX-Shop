@@ -34,6 +34,8 @@ font-size: 12px;
 letter-spacing: 1.2px;
 font-weight: 700;
 line-height: 19.8px;
+font-weight: 700;
+font-style: normal;
 }
 @media (max-width:640px){
 .announcment-message{
@@ -80,8 +82,8 @@ font-size: 15px;
 margin-left: -10px;
 }
 .nav-link{
-font-family:missionfontthin;
-text-transform: uppercase;
+    font-family: "DIN Neuzeit Grotesk", sans-serif;
+    text-transform: uppercase;
 font-weight: 600;
 margin-right: 42px;
 letter-spacing: 1.5px;
@@ -102,7 +104,7 @@ letter-spacing: 1.5px;
     margin-right: 28px;
     font-size: 13px;
     font-weight: 600;
-    font-family: missionfontthin;
+    font-family: "DIN Neuzeit Grotesk", sans-serif;
     color: rgb(136, 135, 135);
     letter-spacing: 1.25px;
 
@@ -110,7 +112,7 @@ letter-spacing: 1.5px;
 .nav-link-right-cart{
     /* margin-right: 42px; */
     font-size: 15px;
-    font-family: missionfontthin;
+    font-family: "DIN Neuzeit Grotesk", sans-serif;
     margin-top: -2px;
     letter-spacing: 1.5px;
     margin-left: 4px;
