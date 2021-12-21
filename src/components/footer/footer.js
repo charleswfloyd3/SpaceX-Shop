@@ -7,8 +7,10 @@ const Footer = () => {
                 <li>FAQS</li>
                 <li>Search</li>
                 <li>Privacy Policy</li>
-                <li>Terms & Conditons</li>
+                <li className="footer-li-last">Terms & Conditons</li>
             </ul>
+            <li className='foot-mobile'>Terms & Conditons</li>
+
             <p className="developer-info-footer">Developed by Charles Floyd</p>
         </div>
     )

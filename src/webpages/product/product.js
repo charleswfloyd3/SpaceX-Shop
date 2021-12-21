@@ -37,7 +37,7 @@ const Product = (props) => {
                     
 
 
-                    {productstored.sizes !== undefined ?<div>
+                    {productstored.sizes !== undefined ?<div className="selections">
                     <select className="color-selection">
                         <optgroup>
                         {productstored.colors.map((color) =>{

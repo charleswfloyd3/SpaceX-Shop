@@ -44,11 +44,42 @@
     opacity: .7;
     text-transform: uppercase;
 }
-
+.foot-mobile{
+    display: none;
+}
 @media (max-width:640px){
 
     .footer-outer{
     }
+    .developer-info-footer{
+        text-align: center;
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 60px;
+    }
+}
+@media (max-width:428px){
+
+    .footer-outer{
+    }
+    .footer-list{
+        text-align: center;
+    }
+    .footer-li-last{
+        display: none;
+    }
+    .foot-mobile{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: sans-serif;
+        color: white;
+        font-size: 15px;
+        font-weight: 100;
+        text-align: center;
+    }
+
     .developer-info-footer{
         text-align: center;
         width: fit-content;
