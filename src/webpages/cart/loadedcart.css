@@ -96,6 +96,7 @@
     margin-top: 140px;
     margin-bottom: -60px;
     cursor: pointer;
+    border: none;
 }
 .checkout-div{
     width: 1000px;
