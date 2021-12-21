@@ -1,8 +1,5 @@
 
-/* .account-page{
-  height: 100vh;
-
-} */
+/* 3 */
 .login-form-outer{
     display: grid;
     place-items: center;
@@ -81,4 +78,18 @@ margin-top: 31.4vh;
   
   .submit-btn::-ms-input-placeholder { /* Microsoft Edge */
     color: white
+  }
+  @media (max-width:450px){
+    .email-input{
+      width: 86vw;
+
+    }
+    .password-input{
+width: 86vw;
+/* border: 2px solid black; */
+    }
+    .submit-btn{
+      width: 90vw;
+
+    }
   }
