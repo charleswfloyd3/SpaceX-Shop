@@ -154,6 +154,9 @@ margin-top: 0px;
     }
     .selections select{
         width: 500px;
+        -webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
     }
     .add-tocart-btn{
         width: 500px;
