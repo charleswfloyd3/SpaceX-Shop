@@ -80,13 +80,15 @@ margin-top: 31.4vh;
     color: white
   }
   @media (max-width:450px){
+    .login-form-outer{
+      margin-top: 23vh;
+    }
     .email-input{
       width: 86vw;
 
     }
     .password-input{
 width: 86vw;
-/* border: 2px solid black; */
     }
     .submit-btn{
       width: 90vw;
