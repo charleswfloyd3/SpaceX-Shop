@@ -21,14 +21,20 @@ const Categories = () => {
             </div>
             <div className="categories-outer">
                     <div className="category1">
-
+                    <div className="category-text-mid">
+                    <p className="category-title">WOMEN'S</p>
+                    <Link to="/collections/womens" onClick={()=>{window.scrollTo(0, 0)}} style={{textDecoration:'none', color:"inherit"}}><p className="category-btn3">VIEW PRODUCTS</p></Link>
+                </div>
                     </div>
                     <div className="category2">
-
+                    <div className="category-text-mid">
+                    <p className="category-title">MEN'S</p>
+                    <Link to="/collections/mens" onClick={()=>{window.scrollTo(0, 0)}} style={{textDecoration:'none', color:"inherit"}}><p className="category-btn3">VIEW PRODUCTS</p></Link>
+                </div>
 
                     </div>
                     <div className='category3'>
-
+ 
 
                     </div>
             </div>

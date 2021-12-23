@@ -118,6 +118,9 @@ cursor: pointer;
     padding-top: 200px;
     display: none;
 }
+.category-text-mid{
+    display: none;
+}
 @media (max-width:1240px){
     .categories-outer{
         position: relative;
@@ -126,7 +129,17 @@ cursor: pointer;
     .titles{
         display: none;
         /* visibility: hidden; */
+        /* position: absolute; */
     }
+    .category-text-mid{
+        /* z-index: 12; */
+        display: block;
+        margin-top: 20vw;
+    }
+    .category-text-mobile{
+        display: block;
+    }
+
 
 
 }
