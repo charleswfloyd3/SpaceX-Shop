@@ -1,5 +1,9 @@
 
 /* 3 */
+*:focus {
+  outline: none;
+}
+
 .login-form-outer{
     display: grid;
     place-items: center;

@@ -10,9 +10,9 @@ const Account = () => {
                 <form className="login-form">
                     <h1 className="form-title">LOGIN</h1>
                     <h6 className="form-subheading">Please enter your e-mail and password:</h6>
-                    <input className="email-input" placeholder="Email"></input>
-                    <input className="password-input" placeholder="Password"></input>
-                    <input className="submit-btn" placeholder="LOGIN"></input>
+                    <input className="email-input" type="email" placeholder="Email" required></input>
+                    <input className="password-input" placeholder="Password" required></input>
+                    <input className="submit-btn" type="submit" placeholder="LOGIN"></input>
                     <h4 className="form-conclusion-text">Don't have an account? Create one</h4>
                 </form>
             </div>
