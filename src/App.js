@@ -11,6 +11,7 @@ import Account from "./webpages/account/account";
 import Product from "./webpages/product/product";
 import Cart from "./webpages/cart/cart";
 import Featured from "./webpages/featured/featured";
+import Checkout from "./webpages/checkout/checkout";
 function App() {
   window.onbeforeunload = function() {
     return "you can not refresh the page";
@@ -30,6 +31,7 @@ function App() {
         <Route exact path="/account/login" element={<Account />} />
         <Route exact path="/productpage" element={<Product />} />
         <Route exact path="/cart" element={<Cart />} />
+        <Route exact path="/checkout" element={<Checkout />} />
 
       </Routes>
     </div>
