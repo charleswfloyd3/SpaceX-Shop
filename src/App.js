@@ -18,6 +18,7 @@ import Womensouterwear from "./webpages/womens-outerwear/womensouterwear";
 import Womensshirts from "./webpages/womens-shirts/womensshirts";
 import Kidsouterwear from "./webpages/kids-outerwear/kidsouterwear";
 import Kidsshirts from "./webpages/kids-shirts/kidsshirts";
+import Ourproducts from "./webpages/ourproducts/ourproducts";
 function App() {
 //   window.onbeforeunload = function() {
 //     return "you can not refresh the page";
@@ -43,6 +44,7 @@ function App() {
         <Route exact path="/collections/accessories" element={<Accessories />} />
         <Route exact path="/collections/premium" element={<Premium />} />
         <Route exact path="/collections/featuredproducts" element={<Featured />} />
+        <Route exact path="/collections/all" element={<Ourproducts />} />
 
         <Route exact path="/account/login" element={<Account />} />
         <Route exact path="/productpage" element={<Product />} />

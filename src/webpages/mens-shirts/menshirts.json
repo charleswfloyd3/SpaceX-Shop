@@ -40,7 +40,6 @@
         "colors":["Color: Charcoal","Color: Black"],
         "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
         "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
-    
     },
     {
         "name": "MEN'S NUKE MARS T-SHIRT",
@@ -65,8 +64,6 @@
         "colors":["Color: Black", "Color: Charcoal"],
         "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
         "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
-
-
     },
     {
         "name": "MEN'S DRAGON T-SHIRT",
@@ -93,7 +90,6 @@
         "colors":["Color: Black"],
         "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
         "details":["100% Cotton"]
-
     },
     {
         "name": "MEN'S DRAGON LONG SLEEVE T-SHIRT",

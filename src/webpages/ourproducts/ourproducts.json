@@ -1,0 +1,192 @@
+[
+    {
+        "name": "DRAGON CAP",
+        "price": "$25.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_Dragon_Black_FRONT_600x.png?v=1589387789"
+    },
+    {
+        "name": "DRONE SHIP LUGGAGE TAGS",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SpaceX_Luggage_Tag_Set_SPXLUGTAG_BOTH_600x.png?v=1618269303"
+    },
+    {        
+        "name": "F9 CAP",
+        "price": "$25.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_F9_Black_00000346_FRONT_600x.png?v=1567182352"
+    },
+    {
+        "name": "KID'S CREW DRAGON SCHEMATIC T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-DragonSchematic-SHIRT-BLACK-BLANK-BACKcopy_600x.png?v=1631676229",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+     },
+     {
+        "name": "KID'S DRAGON T-SHIRT",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-3-DRAGON-T-SHIRT-BLACK-BACK_600x.png?v=1631676294",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+     },
+     {
+        "name": "KID'S F9 T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-4-F9-T-SHIRT-BLACK-BACK_600x.png?v=1631676474",
+        "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black", "Charcoal"]
+
+     },
+     {
+        "name": "KID'S FALCON 1 T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-6-FALCON-1-T-SHIRT-CHARCOAL-BACK_600x.png?v=1631676603",
+        "details":["50% Cotton / 50% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Charcoal"]
+
+     },
+     {
+        "name": "KID'S FALCON HEAVY T-SHIRT",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-7-FALCON-HEAVY-T-SHIRT-BLACK-BACK_600x.png?v=1631676701",
+        "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"],        "sizes":["S", "M", "L"],
+        "colors":["Black", "Charcoal"]
+
+     },
+     {
+        "name": "KID'S OCCUPY MARS T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-9-OCCUPY-MARS-T-SHIRT-BLACK-FRONT_600x.png?v=1631676805",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+     }, 
+     {
+        "name": "KID'S SPACEX PULLOVER HOODIE",
+        "price": "$28.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_SPACEX_ZIPPER_BLACK_BACK_600x.png?v=1631677126",
+        "details":["80% Cotton / 20% Polyester"],
+        "sizes":["2T","3T","4T","S", "M", "L"],
+        "colors":["Black"]
+     },
+     {
+        "name": "KID'S SPACEX SPACESUIT ONESIE",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-11-SPACEDUIT-ONESIE-INFANT-ONESIE-WHITE-GREY-FRONT_600x.png?v=1631644234",
+        "details":["Snap closure on the chest and legs", "80% Cotton / 20% Polyester French Terry"],
+        "sizes":["0-3M", "6-9M", "12M", "2T", "3T","4T", "5T"],
+        "colors":["White"]
+     },
+     {
+        "name": "KID'S SPACEX T-SHIRT",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-14-SPACEX-T-SHIRT-BLACK-BCK_600x.png?v=1631676885",
+        "details":["100% Cotton"],
+        "sizes":["2T","3T","4T","S", "M", "L"],
+        "colors":["Black", "White", "Navy"]
+
+     },
+     {
+        "name": "KID'S SPACEX ZIPPER HOODIE",
+        "price": "$28.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_SPACEX_ZIPPER_BLACK_FRONT_600x.png?v=1631677171",
+        "details":["80% Cotton / 20% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+     },
+     {
+        "name": "KID'S STARMAN PULLOVER HOODIE",
+        "price": "$28.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_STARMAN_HOODIE_BLACK_FRONT_600x.png?v=1631677229",
+        "details":["80% Cotton / 20% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+
+     },
+     {
+        "name": "KID'S STARMAN T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-22-STARMAN-T-SHIRT-BLACK-FRONT_600x.png?v=1631677034",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+
+     },
+     {
+        "name": "MEN'S BOMBER JACKET",
+        "price": "$140.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS_BOMBER_BLACK_FRONT2_900x.png?v=1637104379",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: 2XL", "Size: 3XL"]
+    },
+    {
+        "name": "MEN'S CREW DRAGON SCHEMATIC T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-CREW-DRAGON-SCHEMATIC-T-SHIRT-BLACK-BACK_900x.png?v=1631679171",
+        "colors":["Color: Black", "Color: Gray"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black - Small-XL: 60% Cotton / 40% Polyester", "Black - 2X-5X: 100% Cotton", "Gray  - 90% Cotton / 10% Polyester"]
+    },
+    {
+        "name": "MEN'S DRAGON LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_DRAGON_LS_T_SHIRT_BLACK_BACK_600x.png?v=1631679273",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+    },
+    {
+        "name": "MEN'S DRAGON T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-DRAGON-T-SHIRT-BLACK-BACK_800x.png?v=1631679317",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["100% Cotton"]
+
+    },
+    {
+        "name": "MEN'S F9 LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_F9_LS_T_SHIRT_BLACK_BACK_800x.png?v=1631679356",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+    },
+    {
+        "name": "MEN'S F9 T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-F9-T-SHIRT-BLACK-BACK_800x.png?v=1631679458",
+        "colors":["Color: Black", "Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    },
+{
+    "name": "MEN'S FALCON 1 T-SHIRT",
+    "price": "$30.00",
+    "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-FALCON-1-T-SHIRT-CHARCOAL-BACK6209_800x.png?v=1631679543",
+    "colors":["Color: Charcoal"],
+    "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+    "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 50% Cotton / 50% Polyester"]
+    
+},
+    {
+        "name": "MEN'S FALCON HEAVY LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_FH_LS_T_SHIRT_BLACK_BACK_800x.png?v=1631679587",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+    },
+    {
+        "name": "MEN'S FALCON HEAVY T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-FALCON-HEAVY-CHARCOAL-BACK_800x.png?v=1631681086",
+        "colors":["Color: Charcoal","Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    }
+   
+]

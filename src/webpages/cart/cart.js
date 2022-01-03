@@ -4,6 +4,7 @@ import Navbar from '../../components/navbar/navbar';
 import './emptycart.css'
 import './loadedcart.css'
 import { useProduct } from '../../store/productclicked'
+import { Link } from 'react-router-dom';
 
 const Cart = () => {
     const { setCartProductEvent} = useProduct()
@@ -31,7 +32,7 @@ const Cart = () => {
             {JSON.stringify(cartproducts) === "[]" ? <div className="cart-empty-page">
                 <div className="empty-cart-div">
                     <p className="cart-empty">YOUR CART IS EMPTY</p>
-                    <p className='shop-our-products'>SHOP OUR PRODUCTS</p>
+                    <Link to={"/collections/all"} style={{"textDecoration":"none", "cursor":"pointer"}}><p className='shop-our-products'>SHOP OUR PRODUCTS</p></Link>
                 </div>
             </div> : 
 
