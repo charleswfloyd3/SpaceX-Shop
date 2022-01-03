@@ -1,8 +1,11 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 // import Footer from '../../components/footer/footer';
 import Navbar from '../../components/navbar/navbar';
 import './account.css'
 const Account = () => {
+    useEffect(() => {
+        document.title = "Account - SpaceX Shop Clone";  
+      }, []);
     return (
         <div className="account-page">
             <Navbar />

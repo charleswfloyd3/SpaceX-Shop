@@ -1,0 +1,124 @@
+[
+    {        
+        "name": "MEN'S STARMAN T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-starman-black-FRONT_0414b62c-7de5-4a9d-916b-05a86976fa63_600x.png?v=1631726634",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["100% cotton"]
+        
+    },
+    {
+        "name": "MEN'S CREW DRAGON SCHEMATIC T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-CREW-DRAGON-SCHEMATIC-T-SHIRT-BLACK-BACK_900x.png?v=1631679171",
+        "colors":["Color: Black", "Color: Gray"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black - Small-XL: 60% Cotton / 40% Polyester", "Black - 2X-5X: 100% Cotton", "Gray  - 90% Cotton / 10% Polyester"]
+    },
+    {
+        "name": "MEN'S SPACEX T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-SPACEX-T-SHIRT-BLACK-BACK_600x.png?v=1632008475",
+        "colors":["Color: Black", "Color: Navy"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black: 100% Cotton", "Navy: 100% Cotton"]
+        
+    },
+    {
+        "name": "MEN'S OCCUPY MARS T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-oocupymars-black-FRONT_800x.png?v=1631725808",
+        "colors":["Color: Black", "Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "MEN'S FALCON HEAVY T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-FALCON-HEAVY-CHARCOAL-BACK_800x.png?v=1631681086",
+        "colors":["Color: Charcoal","Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    
+    },
+    {
+        "name": "MEN'S NUKE MARS T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-nukemars-black-FRONT_800x.png?v=1631726281",
+        "colors":["Color: Black"],
+        "sizes": ["Size: XS","Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 100% Cotton"]
+    },
+    {
+        "name": "MEN'S STARLINK T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-STARLINK_NEW_-T-SHIRT-BLACK-BACK_800x.png?v=1631680033",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 100% Cotton"]
+    },
+    {
+        "name": "MEN'S F9 T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-F9-T-SHIRT-BLACK-BACK_800x.png?v=1631679458",
+        "colors":["Color: Black", "Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+
+
+    },
+    {
+        "name": "MEN'S DRAGON T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-DRAGON-T-SHIRT-BLACK-BACK_800x.png?v=1631679317",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["100% Cotton"]
+
+    },
+    {
+        "name": "MEN'S FALCON 1 T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-FALCON-1-T-SHIRT-CHARCOAL-BACK6209_800x.png?v=1631679543",
+        "colors":["Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 50% Cotton / 50% Polyester"]
+        
+    },
+    {
+        "name": "MEN'S FALCON HEAVY LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_FH_LS_T_SHIRT_BLACK_BACK_800x.png?v=1631679587",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+
+    },
+    {
+        "name": "MEN'S DRAGON LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_DRAGON_LS_T_SHIRT_BLACK_BACK_600x.png?v=1631679273",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+    },
+    {
+        "name": "MEN'S F9 LONG SLEEVE T-SHIRT",
+        "price": "$35.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_F9_LS_T_SHIRT_BLACK_BACK_800x.png?v=1631679356",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["100% Cotton"]
+
+    },
+    {
+        "name": "SPACEX POLO",
+        "price": "$40.00",
+        "image":   "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-43-POLO-T-SHIRT-BLACK-FRONT_600x.png?v=1631660596",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2XL", "Size: 3XL", "Size: 4XL", "Size: 5XL"],
+        "details":["47.5% Cotton","47.5% Modal","5% Polyester"]
+
+    }
+]

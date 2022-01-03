@@ -12,18 +12,34 @@ import Product from "./webpages/product/product";
 import Cart from "./webpages/cart/cart";
 import Featured from "./webpages/featured/featured";
 import Checkout from "./webpages/checkout/checkout";
+import Mensshirts from "./webpages/mens-shirts/mensshirts";
+import Mensouterwear from "./webpages/mens-outerwear/mensouterwear";
+import Womensouterwear from "./webpages/womens-outerwear/womensouterwear";
+import Womensshirts from "./webpages/womens-shirts/womensshirts";
+import Kidsouterwear from "./webpages/kids-outerwear/kidsouterwear";
+import Kidsshirts from "./webpages/kids-shirts/kidsshirts";
 function App() {
-  window.onbeforeunload = function() {
-    return "you can not refresh the page";
-}
+//   window.onbeforeunload = function() {
+//     return "you can not refresh the page";
+// }
 
   return (
     <div className="App">
       <Routes>
         <Route exact path="/" element={<Homepage />} />
+
         <Route exact path="/collections/mens" element={<Mens />} />
+        <Route exact path="/collections/mens-shirts" element={<Mensshirts />} />
+        <Route exact path="/collections/mens-outerwear" element={<Mensouterwear />} />
+
         <Route exact path="/collections/womens" element={<Womens />} />
+        <Route exact path="/collections/womens-shirts" element={<Womensshirts />} />
+        <Route exact path="/collections/womens-outerwear" element={<Womensouterwear />} />
+
         <Route exact path="/collections/kids" element={<Kids />} />
+        <Route exact path="/collections/kids-shirts" element={<Kidsshirts />} />
+        <Route exact path="/collections/kids-outerwear" element={<Kidsouterwear />} />
+
         <Route exact path="/collections/accessories" element={<Accessories />} />
         <Route exact path="/collections/premium" element={<Premium />} />
         <Route exact path="/collections/featuredproducts" element={<Featured />} />

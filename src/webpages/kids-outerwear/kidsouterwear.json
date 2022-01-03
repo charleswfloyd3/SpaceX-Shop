@@ -1,0 +1,41 @@
+[    
+    {
+        "name": "KID'S SPACEX SPACESUIT ONESIE",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-11-SPACEDUIT-ONESIE-INFANT-ONESIE-WHITE-GREY-FRONT_600x.png?v=1631644234",
+        "details":["Snap closure on the chest and legs", "80% Cotton / 20% Polyester French Terry"],
+        "sizes":["0-3M", "6-9M", "12M", "2T", "3T","4T", "5T"],
+        "colors":["White"]
+     },
+ 
+
+     {
+        "name": "KID'S SPACEX PULLOVER HOODIE",
+        "price": "$28.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_SPACEX_ZIPPER_BLACK_BACK_600x.png?v=1631677126",
+        "details":["80% Cotton / 20% Polyester"],
+        "sizes":["2T","3T","4T","S", "M", "L"],
+        "colors":["Black"]
+     }, 
+     {
+        "name": "KID'S SPACEX ZIPPER HOODIE",
+        "price": "$28.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_SPACEX_ZIPPER_BLACK_FRONT_600x.png?v=1631677171",
+        "details":["80% Cotton / 20% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+        
+     },
+     {
+        "name": "KID'S STARMAN PULLOVER HOODIE",
+        "price": "$28.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_STARMAN_HOODIE_BLACK_FRONT_600x.png?v=1631677229",
+        "details":["80% Cotton / 20% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+
+     }
+  
+
+]
+

@@ -1,0 +1,91 @@
+[    
+    {
+        "name": "KID'S SPACEX SPACESUIT ONESIE",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-11-SPACEDUIT-ONESIE-INFANT-ONESIE-WHITE-GREY-FRONT_600x.png?v=1631644234",
+        "details":["Snap closure on the chest and legs", "80% Cotton / 20% Polyester French Terry"],
+        "sizes":["0-3M", "6-9M", "12M", "2T", "3T","4T", "5T"],
+        "colors":["White"]
+     },
+     {
+        "name": "KID'S OCCUPY MARS T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-9-OCCUPY-MARS-T-SHIRT-BLACK-FRONT_600x.png?v=1631676805",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+     }, 
+     {
+        "name": "KID'S CREW DRAGON SCHEMATIC T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-DragonSchematic-SHIRT-BLACK-BLANK-BACKcopy_600x.png?v=1631676229",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+     }, 
+     {
+        "name": "KID'S DRAGON T-SHIRT",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-3-DRAGON-T-SHIRT-BLACK-BACK_600x.png?v=1631676294",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+
+     }, 
+     {
+        "name": "KID'S F9 T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-4-F9-T-SHIRT-BLACK-BACK_600x.png?v=1631676474",
+        "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black", "Charcoal"]
+
+     }, 
+     {
+        "name": "KID'S FALCON HEAVY T-SHIRT",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-7-FALCON-HEAVY-T-SHIRT-BLACK-BACK_600x.png?v=1631676701",
+        "details":["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"],        "sizes":["S", "M", "L"],
+        "colors":["Black", "Charcoal"]
+
+     },
+     {
+        "name": "KID'S FALCON 1 T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-6-FALCON-1-T-SHIRT-CHARCOAL-BACK_600x.png?v=1631676603",
+        "details":["50% Cotton / 50% Polyester"],
+        "sizes":["S", "M", "L"],
+        "colors":["Charcoal"]
+
+     }, 
+     {
+        "name": "KID'S STARMAN T-SHIRT",
+        "price": "$20.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-22-STARMAN-T-SHIRT-BLACK-FRONT_600x.png?v=1631677034",
+        "details":["100% Cotton"],
+        "sizes":["S", "M", "L"],
+        "colors":["Black"]
+
+     },
+     {
+        "name": "KID'S SPACEX T-SHIRT",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-14-SPACEX-T-SHIRT-BLACK-BCK_600x.png?v=1631676885",
+        "details":["100% Cotton"],
+        "sizes":["2T","3T","4T","S", "M", "L"],
+        "colors":["Black", "White", "Navy"]
+
+     },
+
+     {
+        "name": "SPACEX ONSIE",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-10-ONESIE-BLACK-FRONT_600x.png?v=1631644560",
+        "details":["100% Cotton"],
+        "sizes":["NB", "6M", "12M"],
+        "colors":["Black"]
+
+     }
+
+]
+

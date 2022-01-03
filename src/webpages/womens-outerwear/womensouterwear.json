@@ -1,0 +1,71 @@
+ [    
+    {
+        "name": "WOMEN'S BOMBER JACKET",
+        "price": "$140.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS_BOMBER_BLACK_FRONT2_edit2_852a381b-01d9-4f02-b0f1-cbd7704b6ef8_700x.png?v=1637698026"
+     },
+     {
+        "name": "UNISEX STARSHIP PULLOVER HOODIE",
+        "price": "$65.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy_600x.png?v=1634582513",
+        "colors":["Color: Cream"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X"],
+        "details": ["100% cotton", "14oz. premium heavyweight fleece", "Due to the custom dye process, natural variances in color may occur"]
+     }, 
+     {
+        "name": "UNISEX STARSHIP CREW SWEATSHIRT",
+        "price": "$55.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_SWEATSHIRT_ROYAL_BLUE_FRONT-4952_600x.png?v=1631678160",
+        "colors":["Color: Blue"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X"],
+        "details": ["100% cotton", "8.5oz premium French Terry"]
+     }, 
+    {
+        "name": "UNISEX SPACEX SWEATSHIRT",
+        "price": "$45.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_SWEATSHIRT_BLACK_BACK_600x.png?v=1631677869",
+        "colors":["Color: Black", "Color: Navy"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Small-2X: 80% Cotton / 20% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    }, 
+    {
+        "name": "UNISEX STARMAN PULLOVER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_STARMAN_BEIMAR_BLACK_FRONT_600x.png?v=1631678082",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    }, 
+    { 
+        "name": "UNISEX SPACEX ZIPPER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_PULLOVER_NAVY_BACK_600x.png?v=1631677689",
+        "colors":["Color: Navy","Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    }, 
+    {
+        "name": "UNISEX FALCON HEAVY ZIPPER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_FALCON_HEAVY_ZIPPER_SMARTEX_CHARCOAL_BACK_600x.png?v=1631677491",
+        "colors":["Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Small-2X: 52% Cotton / 48% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    }, 
+    {
+        "name": "UNISEX DRAGON ZIPPER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_DRAGON_ZIPPER_SMARTEX_GRAY_BACK_600x.png?v=1631677365",
+        "colors":["Color: Gray"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Small-2X: 52% Cotton / 48% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "UNISEX F9 ZIPPER HOODIE",
+        "price": "$50.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_F9_ZIPPER_SMARTEX_BLACK_BACK_700x.png?v=1631677430",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Small-2X: 70% Cotton / 30% Polyester", "3X-5X: 50% Cotton / 50% Polyester"]
+    }
+]

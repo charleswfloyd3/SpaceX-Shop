@@ -1,0 +1,83 @@
+ [    
+   
+     {
+        "name": "WOMEN'S STARLINK T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-STARLINK-T-SHIRT-BLACK-BACK1copy_600x.png?v=1631678887",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["60% Cotton / 40% Polyester"]
+     }, 
+     {
+        "name": "WOMEN'S STARMAN T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-STARMAN-T-SHIRT-BLACK-FRONT_900x.png?v=1631678932",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["60% Cotton / 40% Polyester"]
+     }, 
+     {
+        "name": "WOMEN'S CREW DRAGON SCHEMATIC T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-CREW-DRAGON-SCHEMATIC-T-SHIRT-GRAY-BACK_600x.png?v=1631678337",
+        "colors":["Color: Gray", "Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["Gray: 90% Cotton / 10% Polyester", "Black: 60% Cotton / 40% Polyester"]
+     }, 
+     {
+        "name": "WOMEN'S OCCUPY MARS T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-OCCUPY-MARS-T-SHIRT-BLACK-FRONTcopy_png_600x.png?v=1631678784",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["100% Cotton"]
+     }, 
+     {
+        "name": "WOMEN'S FALCON 1 T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-FALCON-1-T-SHIRT-CHARCOAL-BACK2copy_600x.png?v=1631678554",
+        "colors":["Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["60% Cotton / 40% Polyester"]
+     }, 
+     {
+        "name": "WOMEN'S FALCON HEAVY T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-FALCONHEAVY-1-T-SHIRT-CHARCOAL-BACKcopy_600x.png?v=1631678649",
+        "colors":["Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["60% Cotton / 40% Polyester"]
+     }, 
+     {
+        "name": "WOMEN'S F9 T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-F9-T-SHIRT-CHARCOAL-BACKcopy_600x.png?v=1631678515",
+        "colors":["Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["60% Cotton / 40% Polyester"]
+    }, 
+    {
+        "name": "WOMEN'S DRAGON T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-DRAGON-T-SHIRT-BLACK-BACKcopy_600x.png?v=1631678477",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["100% Cotton"]
+    }, 
+    {
+        "name": "WOMEN'S FRONT LOGO T-SHIRT",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-FRONT-LOGO-T-SHIRT-GRAY-FRONTcopy_600x.png?v=1631678709",
+        "colors":["Color: Gray", "Color: Charcoal", "Color: Blue"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X"],
+        "details": ["60% Cotton / 40% Polyester"]
+    }, 
+    {
+        "name": "WOMEN'S SPACEX POLO",
+        "price": "$40.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-84-POLO-T-SHIRT-BLACK-FRONT_600x.png?v=1631660722",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2XL"],
+        "details": ["47.5% Cotton", "47.5% Modal", "5% Polyester"]
+    }
+]

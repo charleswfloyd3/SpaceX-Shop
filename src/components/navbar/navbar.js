@@ -11,11 +11,44 @@ const Navbar = () => {
                 <div className='nav-left-main'>
                 <Link style={{ textDecoration:"none", color:'inherit'}} to={'/'} ><img src="/images/spacex-logo.png" className="logo" alt="spacex-logo" onClick={()=>{ window.scrollTo(0, 0)}}/></Link>
                     <ul className='nav-links-main'>
-                    <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/mens'} >Mens</Link></li>
-                        <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/womens'} >Womens</Link></li>
-                        <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/kids'} >Kids</Link></li>
-                        <li className="nav-link" onClick={()=>{window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/accessories'} >Accessories</Link></li>
-                        <li className="nav-link" onClick={()=>{window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/premium'} >Premium</Link></li>
+                        <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/mens'} >Mens</Link>
+                        <div className='nav-link-dropdown-outer'>
+                            <div className="nav-link-dropdown">
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/mens-shirts'}><p>Shirts</p></Link>                                           <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/mens-outerwear'}><p>Outerwear</p></Link>
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/mens'}><p>View All</p></Link>                            
+                            </div>
+                        </div>
+                        </li>
+                        <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/womens'} >Womens</Link>
+                        <div className='nav-link-dropdown-outer'>
+                            <div className="nav-link-dropdown">
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/womens-shirts'}><p>Shirts</p></Link>                                           <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/womens-outerwear'}><p>Outerwear</p></Link>
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/womens'}><p>View All</p></Link>                            
+                            </div>
+                        </div>
+                        </li>
+                        <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/kids'} >Kids</Link>
+                        <div className='nav-link-dropdown-outer'>
+                            <div className="nav-link-dropdown">
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/kids-shirts'}><p>Shirts</p></Link> 
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/kids-outerwear'}><p>Outerwear</p></Link>                                        <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/kids'}><p>View All</p></Link>                            
+                            </div>
+                        </div>
+                        </li>
+                        <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/accessories'} >Accessories</Link>
+                        <div className='nav-link-dropdown-outer'>
+                            <div className="nav-link-dropdown">
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/accessories'}><p>View All</p></Link>
+                            </div>
+                        </div>
+                        </li>
+                        <li className="nav-link" onClick={()=>{ window.scrollTo(0, 0)}}><Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/premium'} >Premium</Link>
+                        <div className='nav-link-dropdown-outer'>
+                            <div className="nav-link-dropdown">
+                                <Link style={{ textDecoration:"none", color:'inherit'}} to={'/collections/premium'}><p>View All</p></Link>
+                            </div>
+                        </div>
+                        </li>
                     </ul>
                 </div>
                 <div className='nav-right-main'>

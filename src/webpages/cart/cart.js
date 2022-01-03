@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import Footer from '../../components/footer/footer';
 import Navbar from '../../components/navbar/navbar';
 import './emptycart.css'
@@ -18,8 +18,9 @@ const Cart = () => {
         // console.log(totalprice)
     let noduplicateproducts = cartproducts;   
 
-
-
+    useEffect(() => {
+        document.title = "Your Shopping Cart - SpaceX Shop Clone";  
+      }, []);
 
 
 

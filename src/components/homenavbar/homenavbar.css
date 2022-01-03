@@ -1,4 +1,3 @@
-
 .header-outer{
 text-align: center;
 }
@@ -30,7 +29,6 @@ margin-top: 12px;
 transition: color 0.2s ease-in-out;
 letter-spacing: 0.1em;
 text-transform: uppercase; 
-
 }
 @media (max-width:640px){
 .announcment-message{
@@ -82,6 +80,52 @@ font-weight: 600;
 margin-right: 42px;
 letter-spacing: 1.5px;
 }
+.nav-link-dropdown-outer{
+  height: 100px;
+  width: 200px;
+  background-color: black;position: absolute;
+/* border: 2px solid gold; */
+display: none;
+}
+.nav-link-dropdown{
+    width: 200px;
+    height: fit-content;
+    background-color: black;
+    background-color: rgb(0, 0, 0);
+    /* display: none; */
+    /* padding-top: 75px; */
+    position: absolute;
+    border-top: 2px solid white;
+    border-left:.1px solid rgb(39, 39, 39) ;
+    border-right:.1px solid rgb(39, 39, 39)  ;
+    border-bottom:.1px solid rgb(39, 39, 39) ;
+    margin-top: 32px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.nav-link:hover .nav-link-dropdown-outer{
+    display: block;
+}
+.nav-link-dropdown:hover{
+    display: block;
+
+}
+.nav-link-dropdown p{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 22.5px;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    padding-left: 25px;
+    cursor: pointer;
+}
+.nav-link-dropdown p:hover{
+    color: darkgray;
+}
+
+
 .nav-right{
     padding-top: 43.8px;
 
@@ -214,9 +258,6 @@ letter-spacing: 1.5px;
     color: white;
     cursor: pointer;
 }
-
- 
-
 .nav-sidebar{
     position: absolute;
     left: 0;
@@ -225,9 +266,7 @@ letter-spacing: 1.5px;
     width: 340px;
     background-color: white;
     height: 100vh;
-
 }
-
 .xicon{
     height: 22px;
     width: 22px;
@@ -237,7 +276,6 @@ letter-spacing: 1.5px;
     z-index: 5;
     cursor: pointer;
 }
-
 .nav-sidebar ul{
 
     width:280px;
@@ -281,7 +319,6 @@ letter-spacing: 1.5px;
 .sidebar-account-link:hover{
     color: black;
 }
-
 @media (max-width:640px){
     .nav-sidebar{
         width: 89vw;
@@ -289,5 +326,6 @@ letter-spacing: 1.5px;
     .nav-sidebar ul{
         width: 79vw;
     }
+ 
 }
 
