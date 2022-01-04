@@ -63,7 +63,7 @@ const Homenavbar = () => {
                 <div className='nav-right'>
                     <ul className="nav-links-right">
                         <li className="nav-link-right"><Link style={{ textDecoration:"none", color:'inherit'}} to={'/account/login'} >Account</Link></li>
-                        <li className="nav-link-right">Search</li>
+                        <li className="nav-link-right">Github</li>
                         <li className="nav-link-right-cart"><Link style={{ textDecoration:"none", color:'inherit'}} to={'/cart'} onClick={()=>{window.scrollTo(0, 0)}}>CART ({JSON.parse(localStorage.getItem('cartproducts')).length})</Link></li>
                     </ul>
                 </div>
@@ -71,7 +71,7 @@ const Homenavbar = () => {
                
                 <div className="mobile-nav-outer">
                     <div  className="nav-left-mobile">
-                        <img src="/images/hamburgericon.png" className="hamburger" alt="hamburger-icon" onClick={() =>{
+                        <img src="/images/hamburgericon.png" className="hamburger-home" alt="hamburger-icon" onClick={() =>{
                             if(sidebar === "none"){
                                 setsidebar("block")
                             }
@@ -79,6 +79,7 @@ const Homenavbar = () => {
                                 setsidebar("none")
                             }
                         }}></img>
+                        
                     </div>
                     <img src="/images/spacex-logo.png" className="nav-center-mobile" alt="spacex-logo"></img>
                     <div className="nav-right-mobile">

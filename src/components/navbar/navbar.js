@@ -54,7 +54,7 @@ const Navbar = () => {
                 <div className='nav-right-main'>
                     <ul className="nav-links-right-main">
                         <li className="nav-link-right"><Link style={{ textDecoration:"none", color:'inherit'}} to={'/account/login'} >Account</Link></li>
-                        <li className="nav-link-right">Search</li>
+                        <li className="nav-link-right">Github</li>
                         <li className="nav-link-right-cart"><Link style={{ textDecoration:"none", color:'inherit'}} to={'/cart'} onClick={()=>{window.scrollTo(0, 0)}}>CART ({JSON.parse(localStorage.getItem('cartproducts')).length})</Link></li>                   
                          </ul>
                 </div>

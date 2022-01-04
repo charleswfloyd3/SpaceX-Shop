@@ -81,6 +81,15 @@ border: 1px solid transparent;
   }
 
 }
+@media (max-width:500px){
+  .featured-products-title{
+  margin-bottom: 40px;
+  }
+  .featured-products-btn{
+    margin-top: 26px;
+  }
+
+}
 @media (max-width:345px){
   .featured-products-title{
     width: 50vw;

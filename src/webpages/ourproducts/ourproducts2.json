@@ -1,0 +1,70 @@
+[
+    {
+        "name": "REMOVE BEFORE FLIGHT KEY CHAINS",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/NewRBF_Starshipv4_600x.png?v=1634059737"
+    }, 
+    {
+        "name": "REMOVE BEFORE FLIGHT KEY CHAINS",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/NewRBF._Fairing_600x.png?v=1619130327"
+    },
+    {
+        "name": "SPACEX BACKPACK",
+        "price": "$75.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7630_600x.png?v=1615235953"
+    },
+    {
+        "name": "SPACEX CAP",
+        "price": "$25.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_SpaceX_Black_0001082015_FRONT_a5ff5578-c433-484d-b6b2-3b3d1f7f89d5_600x.png?v=1597082981"
+    },
+    {       
+        "name": "SPACEX CREW-2 MISSION PATCH",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Crew-2_missionpatch_UPDATEDcopy_600x.png?v=1636404445"
+    },
+    {
+        "name": "SPACEX DUFFEL",
+        "price": "$100.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7644_600x.png?v=1615236465"
+    },
+    {
+        "name": "SPACEX JOURNAL",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SPACEX_JOURNAL_back_600x.png?v=1637612035",
+        "details":["5.25' x 8.25' ", "Flexible, perfect bound journal with side scorings for easy opening", "Flat elastic closure & rounded corners", "100 standard lined white sheets"]
+    },
+    {
+        "name": "SPACEX ONSIE",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-10-ONESIE-BLACK-FRONT_600x.png?v=1631644560",
+        "details":["100% Cotton"],
+        "sizes":["NB", "6M", "12M"],
+        "colors":["Black"]
+     },
+     {
+        "name": "SPACEX SCHEMATIC STICKER PACK",
+        "price": "$15.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/schematicstickerpack2_UPDATEDrapcopy_600x.png?v=1626712224"
+    },
+    {
+        "name": "SPACEX WATER BOTTLE",
+        "price": "$35.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SpaceX_Bottle_Front_600x.png?v=1629480342"
+    },
+    {
+        "name": "STARLINK ADJUSTABLE CAP",
+        "price": "$25.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_StarlinkAdjustable_89b6913b-9f97-43f2-8b4c-d557fb84b41a_600x.png?v=1634588243"
+    },
+    {
+        "name": "STARSHIP POSTER PACK",
+        "price": "$30.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/group_600x.png?v=1630523692"
+    }
+
+
+
+
+]

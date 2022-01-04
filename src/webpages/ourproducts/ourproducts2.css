@@ -1,0 +1,32 @@
+.page-navigation-outer{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    }
+    .page-navigation2{
+        display: flex;
+        list-style: none;
+        /* border: 2px solid black; */
+        margin-top: -60px;
+    }
+    .page-navigation2 p:nth-child(3){
+        border-bottom:3px solid rgb(78, 78, 78) ;
+        cursor: text; 
+    }
+    .page-navigation2 p{
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 13px;
+        padding-left: 24px;
+        padding-right: 24px;
+        border-bottom:1px solid rgb(226, 226, 226) ;
+        padding-bottom: 20px;
+        cursor: pointer;
+    }
+    .page-navigation2 p:nth-child(3){
+    }
+    .left-arrow{
+        color: black;
+        width: 6px;
+    }

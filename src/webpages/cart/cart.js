@@ -32,7 +32,7 @@ const Cart = () => {
             {JSON.stringify(cartproducts) === "[]" ? <div className="cart-empty-page">
                 <div className="empty-cart-div">
                     <p className="cart-empty">YOUR CART IS EMPTY</p>
-                    <Link to={"/collections/all"} style={{"textDecoration":"none", "cursor":"pointer"}}><p className='shop-our-products'>SHOP OUR PRODUCTS</p></Link>
+                    <Link to={"/collections/all"} style={{"textDecoration":"none", "cursor":"pointer"}} onClick={()=>{window.scrollTo(0, 0)}}><p className='shop-our-products'>SHOP OUR PRODUCTS</p></Link>
                 </div>
             </div> : 
 
@@ -45,7 +45,8 @@ const Cart = () => {
                                 <p className="cart-item-title cart-item-total-product">PRODUCT</p>
                             </div>
                             <div>
-                                <p className="cart-item-title cart-item-title-quantity">QUANTITY</p>
+                                {/* <p className="cart-item-title cart-item-title-quantity">QUANTITY</p> */}
+                                <p className="cart-item-title cart-item-title-quantity"></p>
                             </div>
                             <div>
                                 <p className="cart-item-title cart-item-title-total">TOTAL</p>
@@ -61,7 +62,8 @@ const Cart = () => {
                                 <div className="quantity-btn">
 
                                 </div>
-                                <div></div>
+                                <div>
+                                </div>
 
                                 
                             </div>
@@ -71,7 +73,7 @@ const Cart = () => {
                     <div className="checkout-div">
                         <p className="totalprice">TOTAL PRICE:<br/>${totalprice}.00</p>
                         <p className="shipping-info">Shipping & taxes calculated at checkout</p>
-                        <p className='checkout-btn'>CHECKOUT</p>
+                        <Link style={{"textDecoration":"none"}} to={'/checkout'}><p className='checkout-btn'>CHECKOUT</p></Link>
                         <p className="emptycart-btn" onClick={()=>{setCartProductEvent("hey"); window.scrollTo(0,0)}}>Empty Cart</p>
                     </div>
                               

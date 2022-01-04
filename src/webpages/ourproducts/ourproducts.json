@@ -187,6 +187,77 @@
         "colors":["Color: Charcoal","Color: Black"],
         "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
         "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "MEN'S NUKE MARS T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-nukemars-black-FRONT_800x.png?v=1631726281",
+        "colors":["Color: Black"],
+        "sizes": ["Size: XS","Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 100% Cotton"]
+    },
+    {
+        "name": "MEN'S OCCUPY MARS T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-oocupymars-black-FRONT_800x.png?v=1631725808",
+        "colors":["Color: Black", "Color: Charcoal"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black: 100% Cotton", "Charcoal: 50% Cotton / 50% Polyester"]
+    },
+    {
+        "name": "SPACEX POLO",
+        "price": "$40.00",
+        "image":   "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-43-POLO-T-SHIRT-BLACK-FRONT_600x.png?v=1631660596",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2XL", "Size: 3XL", "Size: 4XL", "Size: 5XL"],
+        "details":["47.5% Cotton","47.5% Modal","5% Polyester"]
+
+    },
+    {
+        "name": "MEN'S SPACEX T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-SPACEX-T-SHIRT-BLACK-BACK_600x.png?v=1632008475",
+        "colors":["Color: Black", "Color: Navy"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["Black: 100% Cotton", "Navy: 100% Cotton"]
+        
+    },
+    {
+        "name": "MEN'S STARLINK T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-STARLINK_NEW_-T-SHIRT-BLACK-BACK_800x.png?v=1631680033",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details":["Small-XL: 60% Cotton / 40% Polyester", "2X-5X: 100% Cotton"]
+    },
+    {        
+        "name": "MEN'S STARMAN T-SHIRT",
+        "price": "$30.00",
+        "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-starman-black-FRONT_0414b62c-7de5-4a9d-916b-05a86976fa63_600x.png?v=1631726634",
+        "colors":["Color: Black"],
+        "sizes": ["Size: S", "Size: M", "Size: L", "Size: XL", "Size: 2X", "Size: 3X", "Size: 4X", "Size: 5X"],
+        "details": ["100% cotton"]
+        
+    },
+    {
+        "name": "MISSION PATCH COLLECTION 2",
+        "price": "$45.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Group2_600x.png?v=1619153361"
+    },
+    {
+        "name": "MISSION PATCH COLLECTION 3",
+        "price": "$45.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Group3_600x.png?v=1619153587"
+    },
+    {
+        "name": "MISSION PATCH COLLECTION 5",
+        "price": "$85.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Group5_600x.png?v=1619153987"
+    },
+    {
+        "name": "OCCUPY MARS 'HEAT SENSITIVE' TERRAFORMING MUG",
+        "price": "$20.00",
+        "image":"https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Mug_Occupy_Mars_SPXTERRAMUG_FRONT-B_d1867bc6-63f3-4e42-8d1d-1718f81aed0c_600x.png?v=1622576297"
     }
    
 ]

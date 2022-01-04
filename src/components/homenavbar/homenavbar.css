@@ -124,8 +124,6 @@ display: none;
 .nav-link-dropdown p:hover{
     color: darkgray;
 }
-
-
 .nav-right{
     padding-top: 43.8px;
 
@@ -325,6 +323,9 @@ display: none;
     }
     .nav-sidebar ul{
         width: 79vw;
+    }
+    .hamburger-home{
+        margin-top:6.25px;
     }
  
 }

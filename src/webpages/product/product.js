@@ -62,10 +62,10 @@ const Product = (props) => {
                         </optgroup>
                     </select>
                     </div>: <div></div>}
-                    <p className="add-tocart-btn" onClick={()=>{
+                    <Link to="/cart" style={{textDecoration:"none", color:"inherit"}} ><p className="add-tocart-btn" onClick={()=>{
                         setCartProductEvent(productstored);
                         window.scrollTo(0, 0);
-                    }}><Link to="/cart" style={{textDecoration:"none", color:"inherit"}}  >ADD TO CART</Link></p>
+                    }}>ADD TO CART</p></Link>
                 </div>
             </div>
             <Footer />
