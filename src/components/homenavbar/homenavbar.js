@@ -11,7 +11,9 @@ const Homenavbar = () => {
 
             <div className="nav-outer">
             <div className="announcement">
-                <p className="announcment-message" >ORDERS PLACED AFTER DECEMBER 10TH ARE NOT GUARANTEED TO ARRIVE BY CHRISTMAS</p>
+                <p className="announcment-message" >DUE TO CONSTRAINTS FROM OUR CARRIERS BECAUSE OF CURRENT EVENTS, SHIPMENTS MAY BE DELAYED
+
+</p>
             </div>
                 <div className='nav-left'>
                 <Link style={{ textDecoration:"none", color:'inherit'}} to={'/'} ><img src="/images/spacex-logo.png" alt="spacex" className="logo" onClick={()=>{ window.scrollTo(0, 0)}}/></Link>
@@ -63,7 +65,7 @@ const Homenavbar = () => {
                 <div className='nav-right'>
                     <ul className="nav-links-right">
                         <li className="nav-link-right"><Link style={{ textDecoration:"none", color:'inherit'}} to={'/account/login'} >Account</Link></li>
-                        <li className="nav-link-right">Github</li>
+                        <li className="nav-link-right"><a href='https://github.com/charleswfloyd3/SpaceX-Shop' style={{'textDecoration':"none", "color":"inherit"}}target='_blank' rel='noopener' rel="noreferrer">Github</a></li>
                         <li className="nav-link-right-cart"><Link style={{ textDecoration:"none", color:'inherit'}} to={'/cart'} onClick={()=>{window.scrollTo(0, 0)}}>CART ({JSON.parse(localStorage.getItem('cartproducts')).length})</Link></li>
                     </ul>
                 </div>
